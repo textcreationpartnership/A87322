@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial account of all the material circumstances relating to Sir Thomas Armestrong Kt. who was executed at Tyburn for high treason, on Friday the 20th of June, 1684. from the first discovery of the plot, to the day of his execution. As his being impeached of high treason, for conspiring the death of the King, &amp;c. His flight, and his Majesties proclamation issued out thereupon, for his apprehending. His continuance in Holland. The indictment of high treason against him, and process of outlawry entered thereon. His being apprehended at Leyden in Holland, and brought into England. His commitment to Newgate, and the award of death against him at the Kings-Bench-Bar at Westminster. The manner of his behaviour till the day of his execution. Together with his last dying words at the place of execution, &amp;c. Entered according to order.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87322</idno><idno type="EEBO-CITATION">99896119</idno>
+  <idno type="VID">154000</idno>
+  <idno type="EEBO-PROQUEST">2240922481</idno>
+  
+            <idno type="STC">Wing I59</idno>
+            <idno type="STC">ESTC R217006</idno>
+            <idno type="PROQUEST">99896119</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896119e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87322)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154000)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial account of all the material circumstances relating to Sir Thomas Armestrong Kt. who was executed at Tyburn for high treason, on Friday the 20th of June, 1684. from the first discovery of the plot, to the day of his execution. As his being impeached of high treason, for conspiring the death of the King, &amp;c. His flight, and his Majesties proclamation issued out thereupon, for his apprehending. His continuance in Holland. The indictment of high treason against him, and process of outlawry entered thereon. His being apprehended at Leyden in Holland, and brought into England. His commitment to Newgate, and the award of death against him at the Kings-Bench-Bar at Westminster. The manner of his behaviour till the day of his execution. Together with his last dying words at the place of execution, &amp;c. Entered according to order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by the heir of Andrew Anderson, printer to His most Sacred Majesty,</publisher>
+                  <pubPlace>Re-printed at Edinburgh :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Armstrong, Thomas, --  Sir, 1624?-1684 --  Early works to 1800.</term>
+               <term type="topical_term">Rye House Plot, 1683 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154000:1"/>
+            <p>
+               <hi>AN Impartial Account Of all the Material Circumstances Relating to Sir Thomas Armestrong, K<seg rend="sup">t.</seg>
+               </hi>
+            </p>
+            <p>Who was Executed at <hi>Tyburn</hi> for High Treason, on <hi>Friday</hi> the 20th of <hi>June, 1684.</hi> From the first discovery of the Plot, to the day of his Execution As his being Impeached of High Treason, for con<g ref="char:EOLhyphen"/>spiring the Death of the King, <hi>&amp;c.</hi> His Flight, and his Majesties Proclamation issued out thereupon, for his Apprehending. His con<g ref="char:EOLhyphen"/>tinuance in <hi>Holland.</hi> The Indictment of High Treason against him, and Process of Outlawry entered thereon. His being Appre<g ref="char:EOLhyphen"/>hended at <hi>Leyden</hi> in <hi>Holland,</hi> and brought into <hi>England.</hi>
+            </p>
+            <p>His commitment to <hi>Newgate,</hi> and the Award of Death against him at the Kings-Bench-Bar at <hi>Westminster.</hi> The manner of his Be<g ref="char:EOLhyphen"/>haviour till the Day of his Execution. Together with his last Dying Words at the place of Execution, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Entered according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Re-printed at</hi> Edinburgh, <hi>by the Heir of</hi> Andrew Anderson, <hi>Printer to His most Sacred Majesty, 1684.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154000:2"/>
+            <pb n="3" facs="tcp:154000:2"/>
+            <head>An Impartial Account of all the Circumstances Relating to Sir <hi>Thomas Armstrong</hi> Knight, who was Executed at <hi>Tyburn</hi> for High-Treason, on <hi>Friday</hi> the <hi>20.</hi> of <hi>June, 1684.</hi>
+            </head>
+            <p>AFter divers <hi>Heats</hi> and <hi>Feuds,</hi> and many close and under<g ref="char:EOLhyphen"/>hand <hi>Contrivances</hi> in <hi>June,</hi> or about the beginning of <hi>July,</hi> 1683. one Mr. <hi>Keeling</hi> came in and made Oath that di<g ref="char:EOLhyphen"/>vers disaffected Persons had a Design upon the Lives of his most Sacred Majesty, and his Royal Brother, and the Established Government to Subvert, by Raising Insurrection, and Leavying War and Rebellion, Impeaching many of them by Name, and mentioning the place and preparations, and the reason of the De<g ref="char:EOLhyphen"/>feat in the Enterprize, <hi>viz.</hi> The Fire at <hi>New-Market,</hi> which caus<g ref="char:EOLhyphen"/>ed his Majesty and his Royal Highness, to depart sooner then was expected, <hi>&amp;c.</hi> whereupon divers were apprehended, some came in and Confirmed Mr. <hi>Keelings</hi> Testimony, and others fled; a<g ref="char:EOLhyphen"/>mongst the latter of which, was Sir <hi>Thomas Armestrong,</hi> who there<g ref="char:EOLhyphen"/>upon was proclaimed a Traitor, and a Reward of 500. pound offer<g ref="char:EOLhyphen"/>ed to any that could bring him to Justice, strictly commanding him to surrender himself into the hands of the publick Magistrate, which he refusing to do, had a Bill of High-Treason, soon after found against him by the <hi>Grand-Jury</hi> for the City of <hi>London:</hi> Where<g ref="char:EOLhyphen"/>upon, after proclamation according to Law, being made in Court, and he not yet appearing to answer the King, Process of Outlawry was made out against him, and entred up in <hi>Michaelmas-Term</hi> last, whereby he stood attainted of High-Treason, yet was he not heard of for many Months after, though it was conjectured he was in <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> or in some of the <hi>Hans</hi> Towns; but in the end Notice was gi<g ref="char:EOLhyphen"/>ven
+<pb n="4" facs="tcp:154000:3"/>to the Honourable <hi>Thomas Chidly</hi> Esq; his Majesties <hi>Envoy</hi> Ex<g ref="char:EOLhyphen"/>traordinary to the States of <hi>Holland,</hi> that he and divers others who had been Impeached as Conspirators against the life of his Majesty, and against whom it did openly appear upon the Tryals of some who had suffered, that they had held many Consults, and carryed on the designed Rebellion, and particularly against Sir <hi>Thomas,</hi> it appear<g ref="char:EOLhyphen"/>ed that he did go to view the Kings Guards in order to their being surpriz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and gave his opinion it was feizable) were in the Town of <hi>Leyden</hi> (the very place where Sir <hi>Thomas</hi> was born) and shewed themselves publickly; whereupon by vertue of a Treaty made be<g ref="char:EOLhyphen"/>tween his Majesty and the States, he obtained leave to Apprehend him, whereupon sending his Steward and Secretary to the Head Ballew, who acts there in the Nature of an under Sheriff, he with his Officers went readily with them, and entered the Room where Sir <hi>Thomas Armstrong</hi> and divers others were very merry, but upon the sudden, and unexpected approach of the Officers were somewhat consternated, when as one of the Gentle<g ref="char:EOLhyphen"/>men catching sir <hi>Thomas</hi> by the middle, told him he must go for <hi>Eng<g ref="char:EOLhyphen"/>land</hi> with him: <hi>Nay,</hi> says he, <hi>I will not, I'le see you hanged first,</hi> to which the Gentleman replyed, he should go, and he doubted not but to see or hear of his being hanged before he returned.</p>
+            <p>Whereupon he made some oppositions, but being over-powr'd by the Officers (and his company making their Escapes) he was car<g ref="char:EOLhyphen"/>ried on Ship-board, and wafted over, when being Landed at <hi>Tower-Wharf,</hi> and soon after conveyed to <hi>Newgate,</hi> upon a Warrant of Com<g ref="char:EOLhyphen"/>mitment signed by the Right Honourable <hi>Sidny Godolphin</hi> Esq; one of the principal Secretaries of State, he continued from the 11th of <hi>June</hi> to the 14th of the same Instant in the Prison aforesaid, and then in the morning of that day brought to the Bar of the Court of <hi>Kings-Bench Westminster,</hi> where Mr. <hi>Attorney General</hi> moved on the behalf of the King; that seeing Sir <hi>Thomas Armestrong</hi> the Prisoner at the Bar, stood attainted of <hi>High-Treason</hi> by Outlawry, for Conspiring the Death of the King, and to Levy War
+<pb n="5" facs="tcp:154000:3"/>and Rebellion, <hi>&amp;c.</hi> Execution might be awarded against him accor<g ref="char:EOLhyphen"/>ding to Law, and a day appointed by the Court, &amp;c. Upon which motion, the Copy of his Commitment was Read, and thereupon being Ordered to hold up his hand, the Clark of the Crown demanded what he could say for himself, (seeing that upon an Indictment of <hi>High-Treason</hi> found in <hi>London,</hi> Process of Outlawry had been Issued out and Entered up, by vertue of which he stood attainted of the <hi>High-Treason,</hi> specified in the said Indict<g ref="char:EOLhyphen"/>ment) why the Court should not award Execution against him ac<g ref="char:EOLhyphen"/>cording to Law? whereto he Replyed, that he was beyond the Seas, and had no notice of the prosecution; further alledging that he was present within a twelvemonth and a day, specified by Act of Parliament, in case of surrender; and that thereupon he desired the Outlawry might be set aside, and he permitted to make his Defence upon Tryal, but was told that he was not Comprehended within the words of the Statute; for that he was brought thither by Compulsion, and did not surrender himself into the hands of the Magistrate, nor did it appear he was at all inclinable so to do: Then he desired the Statute might be Read, and that he might have Council assigned him to argue the point, the former of which was granted, but the words of the Statute appearing quite contrary to his Case, and the latter request over-ruled, as not allowable to a Person under his Circumstances: he then instanced the case of one under the same Circumstance, meaning as 'tis supposed Mr. <hi>Hol<g ref="char:EOLhyphen"/>loway,</hi> who had the offer of a New Tryal by Mr. <hi>Atto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny General,</hi> to which the Court returned Answer, that it was the Kings Plea<g ref="char:EOLhyphen"/>sure and Mercy, and that his Majesty knew how, and when best to dispose of it, and that if it was his Pleasure so to Order in the Present, God forbid but he should have the Benefit of it, or if it was his Majesties Pleasure to Pardon Sir <hi>Thomas Armestrong,</hi> the Court would acquiesce therein, but no such Mercy or Indulgence appearing, it was a Duty incumbent upon the Court to award Exe<g ref="char:EOLhyphen"/>cution against him, &amp;c.</p>
+            <pb n="6" facs="tcp:154000:4"/>
+            <p>The proceedings having been thus far, the Keeper of <hi>New gate</hi> was asked what days were usual for Execution, who replyed <hi>Wed<g ref="char:EOLhyphen"/>nesdays</hi> and <hi>Fridays</hi> were commonly the days in such cases; where<g ref="char:EOLhyphen"/>upon the Court ordered his Execution on the ensuing <hi>Friday,</hi> which is the 20. Instant, saying that a Rule of Court should be sent, and what else the Law in that case Required, upon which the Prisoner desired further to be heard, and that he might be dealt with accor<g ref="char:EOLhyphen"/>ding to Law, or have the benefit of it, <hi>&amp;c.</hi> But urging nothing material to the present case, he was answered, that he should have the benefit of the Law, and thereupon the Keeper was ordered to see him Executed according to Law, or as the Law in that case Re<g ref="char:EOLhyphen"/>quites, then the Prisoner pretending Innocence, Mr. <hi>Attorney-Ge<g ref="char:EOLhyphen"/>neral</hi> informed their Lordships that he had many plain and convin<g ref="char:EOLhyphen"/>cing Evidences against the Prisoner, and that it appeared he was so far from Relenting, that he had continued a corespondence by Letters, <hi>&amp;c.</hi> In Relation to the carrying on the Design, which ap<g ref="char:EOLhyphen"/>peared by divers Papers found about him, upon his being Appre<g ref="char:EOLhyphen"/>hended, and would have proceeded, but the Court told him the Law had its course, and that they could not take notice of any thing in that Nature, commanding the Keeper to take back his Prisoner, which was accordingly done, and he Re-conveyed to <hi>New gate</hi> to expect his Dissolution; when retiring in private, and se<g ref="char:EOLhyphen"/>riously Re-collecting himself, he seriously reflected upon his past spent Life, and the short time he had to continue in this World, appearing somewhat dejected, and often breathing forth short Eja<g ref="char:EOLhyphen"/>culations, confessing his Sins were many, desiring that God of his infinite Mercy would pardon him, and wash him in the Blood of his dear Son.</p>
+            <p>At his Request Dr. <hi>Teneson</hi> Minister of St. <hi>Martins</hi> in the Fields came to visit him, and Pray with him, giving him such saving Counsel and Spiritual Consolation, as to all appearance wrought effectually in preparing him for a state of Salvation, so that his temper was in a short time wonderfully changed: The said Doctor out of
+<pb n="7" facs="tcp:154000:4"/>his pious inclination, and ardent desire to deliver his Soul out of the snares of the Tempter, often visiting him during the Intervene.</p>
+            <p>The fatal day being come, he was (after having been visited by divers Friends and Relations) put into the Sledg, having on a Black suit, suitable to his Mournful condition, and Conducted by a strong Guard to <hi>Tyburn,</hi> the place of Execution, where ar<g ref="char:EOLhyphen"/>riving about Eleven in the Morning, he stood a considerable time in the Sledg, and took leave of his Friends, <hi>&amp;c.</hi> and then desired that Dr. <hi>Teneson</hi> might be called, which was done, and the Dr. as soon as he could get through the Crowd, (which was exceeding great,) came, then was Sir <hi>Thomas</hi> helped into the Cart, as also the Dr. who kneeling down, prayed fervently with him, desiring God to pardon his manifold sins, and give him a sence of his saving Grace, that so he might lay hold of his Mercies by Faith, and be washed in the Blood of Jesus Christ, <hi>&amp;c.</hi> concluding vvith the <hi>Lords Prayer,</hi> and the Benediction of the Church of <hi>England,</hi> then both rising, Sir <hi>Thomas</hi> after a while kneeled again, and Prayed himself, desiring God to season this Affliction to him for the Salva<g ref="char:EOLhyphen"/>tion of his Soul, beseeching him not to lay his sins to his Charge, but forgive him the offences he had committed against him, and pardon his abusing the many mercies and opportunities of Grace he had bestowed upon him, and that he would bless these Nations, and send Unanimity amongst them, &amp;c. Then rising again, he gave his Hatt and Wigg to his Gentleman, and then prayed again fervently, confessing that he had grievously sinned, and that justly for his sins he was come to an untimely End, yet hoped it might prove to the saving of his poor Immortal Soul, &amp;c. When having been in the Cart for the space of half an hour, his Cap was put on, and the Rope thrown over the Beam and fastened, then his hands were tyed, he still putting up Ejaculations to Heaven, with these Sentences, <hi>viz. Lord have mercy upon my Soul, Christ Jesus have mercy upon me,</hi> &amp;c. He passed from this Life to a state of Im<g ref="char:EOLhyphen"/>mortality, his lips trembling when he was cast from off the Cart.</p>
+            <pb n="8" facs="tcp:154000:5"/>
+            <p>When he had hung about 20 or 30 minutes, he was cut down and Quartered, his Bowels burnt, as by Law in that case is re<g ref="char:EOLhyphen"/>quired, and his Quarters brought back to <hi>Newgate,</hi> to be Disposed of at his Majesties pleasure.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
